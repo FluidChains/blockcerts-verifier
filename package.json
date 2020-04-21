@@ -1,6 +1,6 @@
 {
-  "name": "@blockcerts/blockcerts-verifier",
-  "version": "0.0.0-dev",
+  "name": "@fluidcerts/blockcerts-verifier",
+  "version": "1.0.3",
   "description": "A standalone universal viewer and verifier for blockcerts credentials",
   "repository": {
     "type": "git",
@@ -9,7 +9,7 @@
   "main": "dist/main.js",
   "dependencies": {
     "@babel/runtime": "^7.6.0",
-    "@blockcerts/cert-verifier-js": "^4.0.1",
+    "@fluidchains/cert-verifier-js": "^1.0.3",
     "@polymer/lit-element": "0.5.1",
     "@polymer/polymer": "3.3.1",
     "@webcomponents/webcomponentsjs": "2.4.3",
