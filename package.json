@@ -1,5 +1,5 @@
 {
-  "name": "@fluidcerts/blockcerts-verifier",
+  "name": "@fluidchains/blockcerts-verifier",
   "version": "1.0.3",
   "description": "A standalone universal viewer and verifier for blockcerts credentials",
   "repository": {
