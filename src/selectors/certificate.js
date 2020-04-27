@@ -122,6 +122,16 @@ export function getTransactionLink (state) {
   return '';
 }
 
+export function getVanityTransactionLink (state) {
+  const certificateDefinition = getCertificateDefinition(state);
+
+  if (certificateDefinition) {
+    return certificateDefinition.vanityTransactionLink;
+  }
+
+  return '';
+}
+
 export function getTransactionId (state) {
   const certificateDefinition = getCertificateDefinition(state);
 
