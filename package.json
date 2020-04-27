@@ -1,6 +1,6 @@
 {
-  "name": "@blockcerts/blockcerts-verifier",
-  "version": "0.0.0-dev",
+  "name": "@fluidchains/blockcerts-verifier",
+  "version": "1.0.8",
   "description": "A standalone universal viewer and verifier for blockcerts credentials",
   "repository": {
     "type": "git",
@@ -9,7 +9,7 @@
   "main": "dist/main.js",
   "dependencies": {
     "@babel/runtime": "^7.6.0",
-    "@blockcerts/cert-verifier-js": "^3.6.2",
+    "@fluidchains/cert-verifier-js": "^1.0.4",
     "@polymer/lit-element": "0.5.1",
     "@polymer/polymer": "3.3.1",
     "@webcomponents/webcomponentsjs": "2.4.3",
@@ -91,7 +91,7 @@
       "./test/setupJest.js"
     ],
     "transformIgnorePatterns": [
-      "node_modules/(?!(@polymer|lit-html|pwa-helpers|@blockcerts/cert-verifier-js)/)"
+      "node_modules/(?!(@polymer|lit-html|pwa-helpers|@fluidchains/cert-verifier-js)/)"
     ]
   },
   "semistandard": {
