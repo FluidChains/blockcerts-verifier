@@ -8,7 +8,7 @@ function simpleLogo () {
           <defs></defs>
             <g id="Page-1" stroke="none" stroke-width="1" fill-rule="evenodd" fill-opacity="0.37">
               <g id="blockcerts-logo" transform="translate(0.000000, -2.000000)" fill-rule="nonzero" fill="inherit">
-                <path id="BLOCKCERTS"
+                <path
                       d="M 87.00,6.00
                           C 87.00,6.00 68.95,25.00 68.95,25.00
                             50.97,45.25 27.33,81.02 27.00,109.00
@@ -197,7 +197,8 @@ function simpleLogo () {
                             91.11,174.20 100.06,171.96 105.00,170.33
                             128.61,162.55 143.35,141.51 144.26,117.00
                             144.61,107.34 142.39,98.09 139.33,89.00
-                            137.20,82.65 132.64,71.64 128.00,67.00 Z" />
+                            137.20,82.65 132.64,71.64 128.00,67.00 Z" 
+                            id="BLOCKCERTS" />
               </g>
           </g> 
       </svg>
@@ -211,7 +212,7 @@ function logoWithBranding () {
       <g fill="none" fill-rule="evenodd">
         <g transform="translate(-76 -70)">
           <g transform="translate(76 53)">
-            <path id="BLOCKCERTS-LOGO"
+            <path
                   d="M 87.00,6.00
                     C 87.00,6.00 68.95,25.00 68.95,25.00
                       50.97,45.25 27.33,81.02 27.00,109.00
@@ -222,7 +223,7 @@ function logoWithBranding () {
                       54.31,59.00 78.95,22.00 78.95,22.00
                       81.58,17.86 86.99,10.79 87.00,6.00 Z"
                   fill="#77c1ff"/>
-            <path id="BLOCKCERTS-LOGO"
+            <path
                   d="M 96.00,23.00
                     C 78.34,40.66 65.98,57.77 56.60,81.00
                       53.40,88.94 49.40,101.53 49.00,110.00
@@ -232,7 +233,7 @@ function logoWithBranding () {
                       114.65,46.99 111.15,41.50 107.12,36.00
                       103.74,31.40 100.41,26.65 96.00,23.00 Z"
                   fill="#32a2ff"/>
-            <path id="BLOCKCERTS-LOGO"
+            <path
                   d="M 128.00,67.00
                     C 124.96,86.39 105.61,98.46 89.00,105.57
                       77.92,110.31 64.88,114.51 58.99,126.00
@@ -242,7 +243,7 @@ function logoWithBranding () {
                       144.61,107.34 142.39,98.09 139.33,89.00
                       137.20,82.65 132.64,71.64 128.00,67.00 Z"
                   fill="#0078db"/>
-            <path id="BLOCKCERTS"
+            <path
                   d="M 836.12,165.00
                     C 836.12,165.00 825.00,167.54 825.00,167.54
                       804.28,171.24 783.02,169.39 768.10,153.00
