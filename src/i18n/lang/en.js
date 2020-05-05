@@ -27,7 +27,7 @@ export default {
     itemPlural: 'Items',
     metadataButton: 'View Metadata',
     metadataTitle: 'Certificate Metadata',
-    motto: 'Blockcerts, The Open Standard for Blockchain Credentials',
+    motto: 'Fluid Chains, Facilitate transformational blockchain projects',
     recipient: 'Recipient',
     share: 'Share on',
     shareButton: 'Share on Social Networks',
