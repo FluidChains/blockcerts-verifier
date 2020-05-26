@@ -16,7 +16,7 @@ export default function DownloadLink ({ downloadLink, display = '' }) {
 
   return html`
     ${CSS}
-    <a class$='${classes}' href='${downloadLink}' title$='${info}' aria-disabled?='${!downloadLink}'>
+    <a class$='${classes}' href='${downloadLink}' title$='${info}' aria-disabled?='${!downloadLink}' download="certificate.json">
       <span class$='${isPlainText ? 'buv-o-button-link__label' : 'buv-u-visually-hidden'}'>${info}</span>
     </a>`;
 }
