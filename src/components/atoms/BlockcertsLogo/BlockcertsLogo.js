@@ -208,7 +208,7 @@ function simpleLogo () {
 
 function logoWithBranding () {
   return html`
-    <svg class='buv-qa-logo--branded  buv-c-logo--medium' version="1.1" viewBox="0 0 686 163" xmlns="http://www.w3.org/2000/svg">
+    <svg class='buv-qa-logo--branded  buv-c-logo--medium' version="1.1" viewBox="0 0 1284 180" xmlns="http://www.w3.org/2000/svg">
       <g fill="none" fill-rule="evenodd">
         <g transform="translate(-76 -70)">
           <g transform="translate(76 53)">
