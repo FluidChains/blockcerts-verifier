@@ -22,7 +22,7 @@ const Footer = ({ forceInPlace = false, interactive = false, theme } = {}) => {
     </section>`
     : ''
 }
-    ${BlockcertsLogo()}
+    ${BlockcertsLogo({theme: theme})}
   </footer>`;
 };
 
