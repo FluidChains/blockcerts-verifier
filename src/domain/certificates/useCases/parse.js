@@ -8,7 +8,6 @@ export default async function parse (definition, options = {}) {
   try {
     /* eslint no-new: off */
     const certificateDefinition = new Certificate(definition, options);
-    await certificateDefinition.init();
 
     return {
       certificateDefinition
