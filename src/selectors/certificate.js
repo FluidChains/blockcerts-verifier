@@ -88,8 +88,18 @@ export function getRecordLink (state) {
   return '';
 }
 
+export function getSourceLink (state) {
+  const source = state.src;
+
+  if (source && isValidUrl(source)) {
+    return source;
+  }
+
+  return '';
+}
+
 export function getDownloadLink (state) {
-  const url = getRecordLink(state);
+  const url = getSourceLink(state);
 
   if (url) {
     return domain.certificates.download(url);
