@@ -420,7 +420,7 @@ function logoWithBranding () {
 const BlockcertsLogo = ({ className, showMotto = false } = {}) => {
   return html`
   ${CSS}
-  <a href='https://www.blockcerts.org' title='${getText('text.blockcertsHint')}' class$='buv-c-logo  ${className}'>
+  <a href='https://www.fluidchains.com' title='Fluidchains' class$='buv-c-logo  ${className}'>
     ${
   showMotto
     ? logoWithBranding()
