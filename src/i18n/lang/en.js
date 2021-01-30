@@ -1,7 +1,7 @@
 export default {
   errors: {
     errorLabel: 'Error',
-    invalidBlockcerts: 'Not a valid Blockcerts credential. Please check with the issuer or recipient that has provided this credential.',
+    invalidBlockcerts: 'Not a valid Certifico credential. Please check with the issuer or recipient that has provided this credential.',
     invalidBlockcertsUrl: 'Not a valid credential URL.',
     invalidFormatDragAndDrop: 'Only JSON files are accepted',
     invalidUrl: 'This does not seem to be a valid URL.',
@@ -11,8 +11,8 @@ export default {
     noTransactionId: 'No transaction ID'
   },
   text: {
-    brandName: 'Blockcerts',
-    blockcertsHint: 'Visit Blockcerts website',
+    brandName: 'Certifico',
+    blockcertsHint: 'Visit Certifico website',
     by: 'by',
     certified: 'Certified by',
     closeButton: 'Click to close',

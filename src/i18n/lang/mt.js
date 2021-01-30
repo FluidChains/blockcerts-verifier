@@ -1,7 +1,7 @@
 export default {
   errors: {
     errorLabel: 'Żball',
-    invalidBlockcerts: 'Mhux kredenzjal validu ta \'Blockcerts\'. Jekk jogħġbok iċċekkja ma \'l-emittent jew ir-riċevitur li pprovda din il-kredenzjali.',
+    invalidBlockcerts: 'Mhux kredenzjal validu ta \'Certifico\'. Jekk jogħġbok iċċekkja ma \'l-emittent jew ir-riċevitur li pprovda din il-kredenzjali.',
     invalidBlockcertsUrl: 'Il-URL taċ-ċertifikat mhuwiex validu',
     invalidFormatDragAndDrop: 'Only JSON files are accepted',
     invalidUrl: 'This does not seem to be a valid URL.',
@@ -11,8 +11,8 @@ export default {
     noTransactionId: 'No transaction ID'
   },
   text: {
-    brandName: 'Blockcerts',
-    blockcertsHint: 'Visit Blockcerts website',
+    brandName: 'Certifico',
+    blockcertsHint: 'Visit Certifico website',
     by: 'by',
     certified: 'Certified by',
     closeButton: 'Click to close',
@@ -27,7 +27,7 @@ export default {
     itemPlural: 'Items',
     metadataButton: 'View Metadata',
     metadataTitle: 'Certificate Metadata',
-    motto: 'Blockcerts, The Open Standard for Blockchain Credentials',
+    motto: 'Certifico, The Open Standard for Blockchain Credentials',
     recipient: 'Recipient',
     share: 'Share on',
     shareButton: 'Share on Social Networks',

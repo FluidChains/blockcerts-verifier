@@ -1,7 +1,7 @@
 export default {
   errors: {
     errorLabel: 'Errore',
-    invalidBlockcerts: 'Non è una definizione valida di Blockcerts.',
+    invalidBlockcerts: 'Non è una definizione valida di Certifico.',
     invalidBlockcertsUrl: 'Non è un URL di certificato valido.',
     invalidFormatDragAndDrop: 'Sono accettati solo file JSON',
     invalidUrl: 'Questo non sembra essere un URL valido.',
@@ -11,8 +11,8 @@ export default {
     noTransactionId: 'Nessun ID transazione'
   },
   text: {
-    brandName: 'Blockcerts',
-    blockcertsHint: 'Visita il sito Web Blockcerts',
+    brandName: 'Certifico',
+    blockcertsHint: 'Visita il sito Web Certifico',
     by: 'da',
     certified: 'Certificato da',
     closeButton: 'Fai clic per chiudere',
@@ -27,7 +27,7 @@ export default {
     itemPlural: 'Elementi',
     metadataButton: 'Visualizza Metadata',
     metadataTitle: 'Metadata del Certificato',
-    motto: 'Blockcerts, The Open Standard for Blockchain Credentials',
+    motto: 'Certifico, The Open Standard for Blockchain Credentials',
     recipient: 'Titolare',
     share: 'Condividi',
     shareButton: 'Condividi sui Social Network',

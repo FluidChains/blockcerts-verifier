@@ -1,7 +1,7 @@
 export default {
   errors: {
     errorLabel: 'Erreur',
-    invalidBlockcerts: 'Ceci n\'est pas un certificat Blockcerts valide. Veuillez s\'il vous plaît contrôler avec l\'organisme émetteur ou le récipiendaire de ce certificat.',
+    invalidBlockcerts: 'Ceci n\'est pas un certificat Certifico valide. Veuillez s\'il vous plaît contrôler avec l\'organisme émetteur ou le récipiendaire de ce certificat.',
     invalidBlockcertsUrl: 'Ceci n\'est pas une URL de certificat valide.',
     invalidFormatDragAndDrop: 'Seul le format JSON est accepté',
     invalidUrl: 'URL invalide',
@@ -11,8 +11,8 @@ export default {
     noTransactionId: 'Pas d\'identifiant de transaction'
   },
   text: {
-    brandName: 'Blockcerts',
-    blockcertsHint: 'Visiter le site de Blockcerts',
+    brandName: 'Certifico',
+    blockcertsHint: 'Visiter le site de Certifico',
     by: 'par',
     certified: 'Certifié par',
     closeButton: 'Cliquer pour fermer',
@@ -27,7 +27,7 @@ export default {
     itemPlural: 'points contrôlés',
     metadataButton: 'Voir les métadata',
     metadataTitle: 'Métadata du certificat',
-    motto: 'Blockcerts, The Open Standard for Blockchain Credentials',
+    motto: 'Certifico, The Open Standard for Blockchain Credentials',
     recipient: 'Titulaire',
     share: 'Partager sur',
     shareButton: 'Partager sur les réseaux sociaux',
