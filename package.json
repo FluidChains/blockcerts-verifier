@@ -1,6 +1,6 @@
 {
   "name": "@fluidchains/blockcerts-verifier",
-  "version": "1.0.20",
+  "version": "1.0.21",
   "description": "A standalone universal viewer and verifier for blockcerts credentials",
   "repository": {
     "type": "git",
